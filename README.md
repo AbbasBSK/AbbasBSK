@@ -52,16 +52,11 @@ I am [Abbas Besaki], a front-end developer with a strong passion for creating we
 
  **contacts**
 
- ## 📫 تماس با من
+ ## 📫 contacts
 
 - 📸 [Instagram](https://instagram.com/yourusername)
 - 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 - 📨 [Telegram](https://t.me/yourusername)
 - 📧 [Email](mailto:youremail@example.com)
-
- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  
 
