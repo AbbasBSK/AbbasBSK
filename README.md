@@ -3,7 +3,7 @@
 I am [Abbas Besaki], a front-end developer with a strong passion for creating web applications. I also have experience in video and photo editing and teaching.
 
 
-🛠️ Technologies & Tools
+🛠️ **Technologies & Tools**
 
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
